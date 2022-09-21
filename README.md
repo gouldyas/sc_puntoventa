@@ -8,6 +8,9 @@
 
 - AJUSTES
   - ABM de Categorías de Productos
+  - ABM de Provincias
+  - ABM de Paises
+  - ABM de Estado de Ventas
 - COMPRAS
   - ABM de Proveedores
   - ABM de Productos
